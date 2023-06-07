@@ -176,6 +176,7 @@ to get random greetings from the frontend follow the follwing steps:
  cd hello-react-front-end
  npm install
  npm start
+```
 
 <!-- AUTHORS -->
 
