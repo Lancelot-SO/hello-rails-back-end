@@ -27,8 +27,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -62,7 +60,6 @@ After you're finished please remove all the comments and instructions!
 
 #  <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello-Rails-React]**Ruby on Rails with React in one App. This app displays a random greeting on a button click
 
@@ -88,7 +85,6 @@ After you're finished please remove all the comments and instructions!
 - React
   <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -115,11 +111,17 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Display a greeting on the click of a button]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](URL)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -191,7 +193,6 @@ to get random greetings from the frontend follow the follwing steps:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Create Add Greetings]**
 
